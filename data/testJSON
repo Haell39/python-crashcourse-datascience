@@ -1,4 +1,4 @@
-{"Nome":"Ana","Idade":23,"Sal\u00e1rio":50000}
-{"Nome":"Bruno","Idade":35,"Sal\u00e1rio":60000}
-{"Nome":"Carlos","Idade":45,"Sal\u00e1rio":80000}
-{"Nome":"Diana","Idade":29,"Sal\u00e1rio":70000}
+{"nome":"Ana","idade":23,"salario":50000}
+{"nome":"Bruno","idade":35,"salario":60000}
+{"nome":"Carlos","idade":45,"salario":80000}
+{"nome":"Diana","idade":29,"salario":70000}
